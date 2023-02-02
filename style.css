@@ -3,8 +3,8 @@ body{
     line-height: 1.7;
     font-size: 1.1rem;
     margin: 0;
-    color: #27253d;
-    background: #e6f3f8;
+    color: red;
+    background-color: #0085b6;
 }
 
 main{
@@ -65,5 +65,12 @@ footer a{
 
 footer .heart{
     color: #dc143c
+}
+
+.hello{
+    width: 50px;
+    height: 30px;
+    color:black;
+    background-color: purple;
 }
 
